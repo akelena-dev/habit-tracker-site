@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Habit Tracker — Simple habit tracking with clear stats</title>
+<style>body{font:16px/1.55 -apple-system,system-ui;margin:24px;max-width:760px}header{display:flex;gap:14px;align-items:center}img{width:72px;height:72px;border-radius:16px}</style>
+<header>
+  <img src="icon.png" alt="App Icon">
+  <div>
+    <h1>Habit Tracker</h1>
+    <p>Track daily habits with one tap. Analyze your consistency in clean calendars and multi-month stats.</p>
+  </div>
+</header>
+<h2>Features</h2>
+<ul>
+  <li>Fast daily check-ins</li>
+  <li>Monthly calendar + multi-month statistics</li>
+  <li>Edit habit names and colors</li>
+  <li>Offline by design; JSON export/import for backups</li>
+</ul>
+<p><a href="support.html">Support & FAQ</a> · <a href="privacy.html">Privacy Policy</a></p>
