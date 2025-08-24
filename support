@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Habit Tracker — Support</title>
+<style>body{font:16px/1.55 -apple-system,system-ui;margin:24px;max-width:760px}</style>
+<h1>Habit Tracker — Support</h1>
+<p>If you need help or want to report an issue, email us at
+<a href="mailto:support@example.com">support@example.com</a>.</p>
+
+<h2>Quick help</h2>
+<ul>
+  <li><b>Add habit:</b> tap “+” on the main screen.</li>
+  <li><b>Mark day:</b> tap the circle next to a habit.</li>
+  <li><b>Statistics:</b> open the bar-chart icon.</li>
+  <li><b>Export/Import:</b> “⋯” → Export/Import JSON.</li>
+</ul>
+
+<p><a href="privacy.html">Privacy Policy</a></p>
