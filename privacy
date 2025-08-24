@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Habit Tracker — Privacy Policy</title>
+<style>body{font:16px/1.55 -apple-system,system-ui;margin:24px;max-width:760px}</style>
+<h1>Privacy Policy</h1>
+<p><b>Data on device.</b> The app stores your habits and completion data locally on your device.
+We do not collect, transmit or sell any personal data.</p>
+<p><b>Backups.</b> You can export/import your data as a JSON file. These actions are initiated by you and use your chosen storage/sharing options.</p>
+<p><b>Analytics & tracking.</b> The app does not include third-party analytics or advertising.</p>
+<p>If you have questions, contact <a href="mailto:support@example.com">support@example.com</a>.</p>
